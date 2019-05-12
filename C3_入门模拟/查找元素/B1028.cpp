@@ -26,7 +26,7 @@ bool moreThan(person a, person b){
 void init(){
     min.yy = left.yy = 1814;
     max.yy = right.yy = 2014;
-    min.mm = left.mm = max.mm = right.mm = 9;
+    min.mm = left.mm  = max.mm = right.mm = 9;
     min.dd = left.dd = max.dd = right.dd = 6;
 }
 int main(){
